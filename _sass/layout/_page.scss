@@ -170,7 +170,28 @@
   }
 }
 
+.mainpage-button {
+  position: relative;
+  background-color: rgb(50, 23, 94);
+  border: none;
+  font-size: 18px;
+  color: #FFFFFF;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+}
 
+ul.subnav{
+    list-style-type: none;
+}
+
+li.subnav{
+    float: left;
+    padding-right: 15px;
+}
 
 .spacer {
   height: 1.5rem;
