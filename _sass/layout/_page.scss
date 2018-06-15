@@ -176,7 +176,8 @@
   border: none;
   font-size: 18px;
   color: #FFFFFF;
-  padding: 20px;
+  padding: 1.2rem;
+  margin: 0rem 1rem;
   width: 200px;
   text-align: center;
   text-decoration: none;
@@ -184,14 +185,10 @@
   cursor: pointer;
 }
 
-ul.subnav{
-    list-style-type: none;
+.centered {
+  text-align: center;
 }
 
-li.subnav{
-    float: left;
-    padding-right: 15px;
-}
 
 .spacer {
   height: 1.5rem;
