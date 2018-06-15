@@ -1,13 +1,11 @@
 header:
-  - titles:
-      en:       Archive
-      zh:       归档
-      zh-Hans:  归档
-      zh-Hant:  歸檔
-    url:        /archive.html
-  - titles:
-      en:       About
-      zh:       关于
-      zh-Hans:  关于
-      zh-Hant:  關於
+  - title:      Home
+    url:        /index.html
+  - title:      News
+    url:        /news.html
+  - title:      About
     url:        /about.html
+  - title:      Contact
+    url:        /contact.html
+  - title:      Sponsors
+    url:        /sponsors.html

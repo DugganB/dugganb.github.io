@@ -141,3 +141,37 @@
     }
   }
 }
+
+.contrast-inner {
+  //For now this is just the main class found in _main.scss
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0 2rem;
+  max-width: map-get($layout, content-max-width);
+  @include media-breakpoint-down(lg) {
+    padding: 0 1rem;
+  }
+}
+
+.contrast {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-color: rgb(50, 23, 94);
+  color: white;
+  h1 {
+    color: white;
+  }
+  h4 {
+    color: white;
+  }
+}
+
+
+
+.spacer {
+  height: 1.5rem;
+}

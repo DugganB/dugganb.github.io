@@ -5,7 +5,7 @@
     {%- assign __path = site.paths.base | default: site.data.variables.default.paths.base  -%}
     {%- include snippets/get-nav-url.html -%}
     {%- if site.title -%}
-      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}"></a>
     {%- endif -%}
     </div>
     {%- assign list = site.data.navigation.header -%}
