@@ -166,6 +166,7 @@
   color: white;
   h1 {
     color: white;
+    @include split-line(bottom);
   }
   h2 {
     color: white;
