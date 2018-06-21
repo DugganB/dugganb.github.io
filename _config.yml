@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   name: Blockchain Society at the UW
-  email:  # your Email address e.g. someone@site.com
+  email:  info@uwblockchain.org # your Email address e.g. someone@site.com
   facebook: # your Facebook username
   twitter: # your Twitter username
   github: # your GitHub username
