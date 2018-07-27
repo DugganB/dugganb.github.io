@@ -1,11 +1,7 @@
 header:
   - title:      Home
     url:        /index.html
-  - title:      News
-    url:        /news.html
   - title:      About
     url:        /about.html
   - title:      Contact
     url:        /contact.html
-  - title:      Sponsors
-    url:        /sponsors.html
